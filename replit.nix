@@ -6,5 +6,6 @@
 		pkgs.gnumake
 		pkgs.nano
 		pkgs.cmake
+		pkgs.python39Packages.pip
 	];
 }
